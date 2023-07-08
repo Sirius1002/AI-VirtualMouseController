@@ -1,6 +1,6 @@
 MOUSE AND WEBCAM CONTROLLER
 
-This is a project created by the group number 6 of 2CS2 group for SE course.
+This is a project created by group number 6 of the 2CS2 group for the SE course.
 
 The following are the group members:
 1. Harneet Kaur - 102117052
@@ -8,17 +8,19 @@ The following are the group members:
 3. Chetanveer Singh - 102117054
 4. Vansh Sandhir - 102117060
 
-The gesture of single hand is used.
+The gesture of a single hand is used.
 When only one finger is used, it is in moving mode.
 When two fingers are joined, it performs a click operation.
-When first three fingers are up, Scrolling up operations is done.
-When first two and the little finger is up, scrolling down opeation is done.
-When index finger and little finger is up, screenshot is taken.
+When the first three fingers are up, Scrolling up operations are done.
+When the first two and the little finger is up, the scrolling down operation is done.
+When the index finger and little finger are up, the screenshot is taken.
 When all the fingers are up, color at the fingertips is detected.
 
 Requirements:
--mediapipe
+-media pipe
 -pyautogui
--webcolors
--numpy
--openCV
+-web colors
+-NumPy
+-OpenCV
+![17213137_rm373batch13-028](https://github.com/Sirius1002/AI-VirtualMouseController/assets/135801764/a1add821-efa9-4eaf-a21a-013380dbbbe1)
+
